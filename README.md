@@ -10,7 +10,12 @@ de datos para los modelos tenian tiempos de carga interminables, es posible que 
 mayor contenido mejore los resultados.
 
 Las fuentes para ambas bases de datos son las siguientes:
+
 Proyecto 1.
+
 https://www.kaggle.com/datasets/muhammaddawood42/nvidia-stock-data 
+
 Proyecto 2.
+
 https://www.kaggle.com/datasets/vivmankar/asian-vs-african-elephant-image-classification
+
